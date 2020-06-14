@@ -485,7 +485,7 @@ When a test fails, the pause mode will be activated, so you can inspect current 
 
 This is an **essential feature to debug flaky tests**, as you can analyze them in the moment of failure.
 
-> ℹ To enable pause after a test without a plugin use `After(pause)` inside a test file.
+> ℹ To enable pause after a test without a plugin use `After(pause);` inside a test file.
 
 
 ### Screenshot on Failure
